@@ -17,7 +17,6 @@ let t1 = "hello"
 let t2 = 123;
 
 // 3. 활용 사례
-
 function printName(person){
     if(person === undefined || person === null){
         console.log("person의 값이 없음");
