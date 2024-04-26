@@ -47,6 +47,7 @@ const promise = new Promise((resolve, reject)=>{
     }, 2000);
 });
 
+
 // then 메서드
 // - Promise에서 작업이 성공했을 때 호출되는 함수
 
