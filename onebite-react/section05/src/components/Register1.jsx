@@ -1,8 +1,12 @@
+
+// 섹션5 React.js 입문 5.8) State로 사용자 입력 관리하기 1
+
 // 간단한 회원가입 폼
 // 1. 이름
 // 2. 생년월일
 // 3. 국적
 // 4. 자기소개
+
 import { useState } from "react";
 
 const Register = () =>{
